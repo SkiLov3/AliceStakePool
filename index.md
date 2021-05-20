@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Alice Stake Pool!
 
 You can use the [editor on GitHub](https://github.com/SkiLov3/AliceStakePool/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
