@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/SkiLov3/AliceStakePool/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Alice Stake Pool Operator Profile
+-Ran by Cloud / Systems Engineer who works for a promeinent SF tech company. Regular Job duties include management of a full AWS stack along with a physical infrastructure.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,8 +14,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Alice Stake Pool Operator Profile
--Ran by Cloud / Systems Engineer who works for a promeinent SF tech company. Regular Job duties include management of a 
 ## Header 2
 ### Header 3
 
