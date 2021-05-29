@@ -1,8 +1,5 @@
 cat > poolMetaData.json << EOF
 {
-"name": "Alice Stake Pool01",
-"description": "Alice stake pool is hosted in AWS for security and reliability! Come down the rabbit hole with us and enjoy the staking!!",
-"ticker": "ALICE",
-"homepage": "https://skilov3.github.io/AliceStakePool/"
+"name": "Alice Stake Pool01","description": "Alice stake pool is hosted in AWS for security and reliability! Come down the rabbit hole with us and enjoy the staking!!","ticker": "ALICE","homepage": "https://skilov3.github.io/AliceStakePool/"
 }
 EOF
