@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "...",
-            "server": "AWWS EC2 runnning on t3a.large instances.",
+            "server": "AWS us-west-2 EC2s runnning on t3a.large instances.",
             "company": ""
         }
     },
