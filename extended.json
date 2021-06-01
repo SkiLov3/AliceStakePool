@@ -1,44 +1,35 @@
-	
-//how-to-implement	"in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json"
-//info	
-//url_png_icon_64x64	"http(s) url to pool icon; not animated; max 40kb"
-//url_png_logo	"http(s) url to pool logo; not animated; max 50kb"
-location	"Reno, NV"
-social	
-twitter_handle	"StakeAlice"
-//telegram_handle	""
-//facebook_handle	""
-//youtube_handle	""
-//twitch_handle	""
-//discord_handle	""
-//github_handle	""
-//company	
-//name	""
-//addr	""
-//city	""
-//country	""
-//company_id	""
-//vat_id	""
-//about	
-//me	"..."
-server	"AWS EC2 t3a.large servers"
-////company	"..."
-my-pool-ids	
-0	"1c220012e987c342ec4b4c6cea04501d0cf003459804b0e7018d3c73"
-//when-satured-then-recommend	
-telegram-admin-handle	
-0	"alice_ops"
-//adapools_ext	
-//prometheus	
-//0	
-//name	"relay 1 eu"
-//type	"relay"
-//key	"example_get_own_on_adapools.org/connect"
-//1	
-//name	"relay 2 usa"
-//type	"relay"
-//key	"example_get_own_on_adapools.org/connect"
-//2	
-//name	"block producer home"
-//type	"bp"
-//key	"example_get_own_on_adapools.org/connect"
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "Reno , NV, USA",
+        "social": {
+            "twitter_handle": "StakeAlice",
+            "telegram_handle": "adapools_ops",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "...",
+            "server": "AWWS EC2 runnning on t3a.large instances.",
+            "company": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "1c220012e987c342ec4b4c6cea04501d0cf003459804b0e7018d3c73"
+    },
+    "telegram-admin-handle": {
+        "0": "alice_ops"
+    }
+}
