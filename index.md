@@ -1,5 +1,4 @@
 ## Welcome to Alice Stake Pool!
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Alice Stake Pool Operator Profile
 -Ran by Cloud / Systems Engineer who works for a promeinent SF tech company. Regular Job duties include management of a full AWS stack along with a physical infrastructure.
